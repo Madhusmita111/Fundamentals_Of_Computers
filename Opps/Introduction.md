@@ -1,5 +1,3 @@
-# 00_Introduction.md
-
 # Object-Oriented Programming (OOP)
 
 > **Goal:** Understand *why* Object-Oriented Programming exists, the problems it solves, and how C++ implements it internally. This chapter builds the mental model required for advanced OOP concepts.
