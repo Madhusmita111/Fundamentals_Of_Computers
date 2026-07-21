@@ -462,28 +462,3 @@ By the end of this chapter you should understand:
 
 ---
 
-# Next Chapter
-
-**01_How_CPP_Works.md**
-
-Before learning classes, we will study what actually happens when a C++ program is compiled.
-
-Topics include:
-
-* Source code to executable
-* Preprocessor
-* Compiler
-* Assembler
-* Linker
-* Program memory layout
-* Stack
-* Heap
-* Text segment
-* Data segment
-* BSS segment
-* Static storage
-* Object lifetime
-* Where functions live
-* Where objects live
-* Where classes live
-* Why understanding memory is essential before OOP
